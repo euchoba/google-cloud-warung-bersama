@@ -1,4 +1,4 @@
-runtime: custom
+runtime: php
 env: flex
 
 runtime_config:
@@ -26,6 +26,6 @@ env_variables:
   APP_DEBUG: true
   APP_ENV: production
   APP_KEY: base64:jPuCYpPRSSwT87gY065noDskfUaOiG/nivu70p1W2fw=
-  APP_NAME: "GCP App - CODE"
+  APP_NAME: "api-warung-bersama"
 
   LOG_LEVEL: debug
